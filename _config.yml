@@ -22,14 +22,14 @@ repository               : "shirleyshu0503/shirleyshu0503.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "YS2.JPG"
   name             : "Yunyu Shu"
   pronouns         : # example: "she/her"  
-  bio              : "PhD Candidate"
-  location         : "Providence, RI, USA"
+  bio              : "Ph.D. Candidate in Economics"
+  location         : # "Providence, RI, USA"
   employer         : "Brown University"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : # "yunyu_shu@brown.edu" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
@@ -50,7 +50,7 @@ author:
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          : #"bsky.app" # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
