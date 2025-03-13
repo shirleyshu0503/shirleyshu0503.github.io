@@ -13,7 +13,7 @@ title                    : "Yunyu Shu"
 title_separator          : "-"
 name                     : &name "Yunyu Shu"
 description              : &description "development economics; environmental economics"
-url                      : https://shirleyshu0503.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
+url                      : https://www.yunyu-shu.com # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "shirleyshu0503/shirleyshu0503.github.io"
 
