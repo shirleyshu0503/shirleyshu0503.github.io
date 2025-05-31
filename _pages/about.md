@@ -10,7 +10,7 @@ redirect_from:
 ------
 Welcome!
 
-I am a Ph.D. candidate in Economics at Brown University, and expect to graduate in May 2025.
+I obtained my Ph.D. in Economics at Brown University in 2025.
 
 My research interests lie in development economics and environmental economics, focusing on climate adaptation, green energy transition, and enforcement of environmental regulations. 
 
@@ -18,4 +18,4 @@ My work involves field experiments, primary data collection, and secondary data 
 
 Here is my [CV](https://shirleyshu0503.github.io/files/CV_YunyuShu.pdf).
 
-Feel free to contact me at: [yunyu_shu@brown.edu](mailto:yunyu_shu@brown.edu).
+Feel free to contact me at: [yunyu_shu@brown.edu](mailto:yunyu_shu@brown.edu) or [shirleyshuyy@gmail.com](mailto:shirleyshuyy@gmail.com).
