@@ -19,7 +19,6 @@ author_profile: true
 
 <strong>Credit Constraint and Green Energy Adoption: Evidence from Small Firms in Kenya.</strong> (with [Jiayue Zhang](https://jzhangg.github.io/) and  Wycliffe Oluoch)
 <br><small>[ [PEDL Summary](https://pedl.cepr.org/content/blackouts-and-green-energy-adoption-evidence-kenya-0) | [AEA Registry](https://www.socialscienceregistry.org/trials/13802) ]</small>
-<summary>Abstract</summary> 
 <details>
 <small><u>Presented at (selected)</u>: AFE 2025 (scheduled), AERE Summer 2025, </small>
 </details>
