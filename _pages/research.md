@@ -41,10 +41,7 @@ author_profile: true
 
 
 <strong>Local Knowledge or Misallocation: Efficiency Costs of Discretion in Regulatory Enforcement.</strong> (with [Ruozi Song](https://www.worldbank.org/en/about/people/r/ruozi-song) and [Bing Zhang](https://scholar.google.com/citations?user=P3sttCoAAAAJ&hl=en))
-<br><small> Funded by: World Bank </small>
 
-
-<br />
 
 
 <script> function visib(id) { var x = document.getElementById(id); if (x.style.display === "block") { x.style.display = "none"; } else { x.style.display = "block"; } } </script>
