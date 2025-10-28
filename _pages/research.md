@@ -23,8 +23,11 @@ author_profile: true
 <strong>Local Favoritism and Environmental Regulation: Evidence from China.</strong> (with Xiaowei Zhang and Tiemeng Ma)
 <br><small>[ [2024 EPG Best Poster Award](https://epgnetwork.org/epg-prize/) ]</small>
 
+<div style="margin-top: 20px;"></div>
+
 <strong>Intergenerational Impact of Land Property Rights: Evidence from Land Certification Reform in Rural China.</strong> 
 <br><small></small>
+
 
 <br />
 
@@ -41,7 +44,10 @@ author_profile: true
 <br><small> Funded by: World Bank </small>
 
 
+<br />
 
+
+<script> function visib(id) { var x = document.getElementById(id); if (x.style.display === "block") { x.style.display = "none"; } else { x.style.display = "block"; } } </script>
 
 
 
