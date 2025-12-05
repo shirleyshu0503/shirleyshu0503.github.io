@@ -43,7 +43,7 @@ author_profile: true
 
 <div id="used_cars" style="display: none; text-align: justify; line-height: 1.2"><small> How does the presence of international trade in used durable goods, such as vehicles, affect the efficacy and relative welfare effects of unilateral policies to decarbonize transportation? This project combines a micro-founded structural model with novel data from multiple countries, to understand the effectiveness, potential economic costs, and environmental impacts, of restricting trade in used vehicles. </small><br><br></div>
  
- <div id="grant_2" style="display: none; text-align: justify; line-height: 1.2"><small> International Growth Centre </small><br><br></div>
+ <div id="grant_2" style="display: none; text-align: justify; line-height: 1.2"><small> Grant(s): International Growth Centre </small><br><br></div>
 
 <strong>Local Knowledge or Misallocation: Efficiency Costs of Discretion in Regulatory Enforcement.</strong> (with [Ruozi Song](https://www.worldbank.org/en/about/people/r/ruozi-song) and [Bing Zhang](https://scholar.google.com/citations?user=P3sttCoAAAAJ&hl=en))
 
