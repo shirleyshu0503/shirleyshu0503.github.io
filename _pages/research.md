@@ -38,12 +38,12 @@ author_profile: true
 
  <div id="cocoa_info" style="display: none; text-align: justify; line-height: 1.2"><small> Information campaigns are a major policy tool for promoting climate change adaptation. Such policies often face contestation because the benefits of adaptive actions are distributed unevenly across scales: local actors prioritize private resilience while policymakers emphasize collective, long-term social gains. We examine whether information framed around private versus social benefits shifts adaptation behaviors, and whether credibility-enhancing caveats alter uptake, in the context of cocoa farming in Ghana where agroforestry is a viable but under-adopted adaptation strategy. We find that, while information on private and social benefits are separately effective in driving adaptation, combining them does not necessarily increase the information impact. We also show that providing information on the downside risks of the adaptation strategy on top of its benefits increases information credibility and subsequently boosts adoption of the adaptation strategy.</small><br><br></div>
 
-<strong>Clearing the Air on Used Vehicles. </strong> (with [Eddy Zou](https://sites.google.com/view/eddyzou/home), Xinmei Yang)
+<strong>Clearing the Air on Used Vehicles. </strong> (with [Eddy Zou](https://sites.google.com/view/eddyzou/home) and Xinmei Yang)
 <br><small>[ <a href="#/" onclick="visib('used_cars')">Abstract</a> | <a href="#/" onclick="visib('grant_2')">Grants</a>  ]</small> 
 
- <div id="used_cars" style="display: none; text-align: justify; line-height: 1.2"><small> How does the presence of international trade in used durable goods, such as vehicles, affect the efficacy and relative welfare effects of unilateral policies to decarbonize transportation? This project combines a micro-founded structural model with novel data from multiple countries, to understand the effectiveness, potential economic costs, and environmental impacts, of restricting trade in used vehicles. </small><br><br></div>
+<div id="used_cars" style="display: none; text-align: justify; line-height: 1.2"><small> How does the presence of international trade in used durable goods, such as vehicles, affect the efficacy and relative welfare effects of unilateral policies to decarbonize transportation? This project combines a micro-founded structural model with novel data from multiple countries, to understand the effectiveness, potential economic costs, and environmental impacts, of restricting trade in used vehicles. </small><br><br></div>
  
-  <div id="grant_2" style="display: none; text-align: justify; line-height: 1.2"><small> International Growth Centre </small><br><br></div>
+ <div id="grant_2" style="display: none; text-align: justify; line-height: 1.2"><small> International Growth Centre </small><br><br></div>
 
 <strong>Local Knowledge or Misallocation: Efficiency Costs of Discretion in Regulatory Enforcement.</strong> (with [Ruozi Song](https://www.worldbank.org/en/about/people/r/ruozi-song) and [Bing Zhang](https://scholar.google.com/citations?user=P3sttCoAAAAJ&hl=en))
 
