@@ -8,7 +8,9 @@ redirect_from:
 ---
 
 {% include base_path %}
-You can download my CV [here](https://shirleyshu0503.github.io/files/CV_YunyuShu.pdf).
+Employment 
+======
+* Shanghai University of Finance and Economics (SUFE), 2025--present
 
 Education
 ======

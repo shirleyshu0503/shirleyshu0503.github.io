@@ -17,3 +17,15 @@ I received my Ph.D. in Economics at Brown University in 2025. My research intere
 Email:  [shuyunyu@sufe.edu.cn](mailto:shuyunyu@sufe.edu.cn) or [shirleyshuyy@gmail.com](mailto:shirleyshuyy@gmail.com).
 
 Please email me your CV if you are interested in RA. 
+
+------
+## Upcoming Trips
+
+<div style="font-size: 0.85em;" markdown="1">
+
+- **Nov 2026** — Tsinghua University, UIBE, Monash University, NEUDC 2026 (Cornell)\*
+
+
+<span style="font-size: 0.9em; color: #777;">\* presented by coauthor</span>
+
+</div>
