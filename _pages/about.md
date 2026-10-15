@@ -18,8 +18,8 @@ Email:  [shuyunyu@sufe.edu.cn](mailto:shuyunyu@sufe.edu.cn) or [shirleyshuyy@gma
 
 Please email me your CV if you are interested in RA. 
 
-------
-## Upcoming Trips
+
+#### Upcoming Trips
 
 <div style="font-size: 0.85em;" markdown="1">
 

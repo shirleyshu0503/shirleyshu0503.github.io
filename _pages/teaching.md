@@ -5,7 +5,13 @@ permalink: /teaching/
 author_profile: true
 ---
 
+* Intermediate Microeconomics, Undergraduate, SUFE
++ Spring 2026, Fall 2026
 
+* Environmental and Development Economics, Ph.D. , SUFE
++ Spring 2026
+
+-----
 
 * Microeconomics II, Ph.D. Sequence (ECON 2060), Brown University
      + Teaching assistant for Professor Kareen Rozen and Glenn Loury
@@ -16,5 +22,4 @@ author_profile: true
     + Winter 2023
 
 * Introduction to Econometrics, Undergraduate (ECON 1620), Brown University
-  + Head teaching assistant for Professor Soonwoo Kwon
   + Spring 2025
