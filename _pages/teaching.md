@@ -6,10 +6,11 @@ author_profile: true
 ---
 
 * Intermediate Microeconomics, Undergraduate, SUFE
-+ Spring 2026, Fall 2026
+	+ Spring 2026, Fall 2026
 
 * Environmental and Development Economics, Ph.D. , SUFE
-+ Spring 2026
+	+ Spring 2026
+
 
 -----
 

@@ -8,7 +8,6 @@ redirect_from:
 ---
 
 {% include base_path %}
-======
 * Shanghai University of Finance and Economics (SUFE), 2025--present
 
 Education
